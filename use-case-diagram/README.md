@@ -10,5 +10,5 @@ This diagram visualizes how **Guests, Hosts, Admins,** and the external **Paymen
 | **Admin** | Manage Users · Handle Disputes |
 | **Payment Gateway** | Process Payments |
 
-> Source file: `use-case-diagram/airbnb_use_case.png`
+> Source file: `use-case-diagram.png`
 
