@@ -2,7 +2,6 @@
 
 This diagram visualizes how **Guests, Hosts, Admins,** and the external **Payment Gateway** interact with the system.
 
-![Use‑case diagram](use-case-diagram/airbnb_use_case.png)
 
 | Actor | Key Interactions |
 |-------|------------------|
@@ -11,4 +10,5 @@ This diagram visualizes how **Guests, Hosts, Admins,** and the external **Paymen
 | **Admin** | Manage Users · Handle Disputes |
 | **Payment Gateway** | Process Payments |
 
-> Source file: `use-case-diagram/airbnb_use_case.drawio`
+> Source file: `use-case-diagram/airbnb_use_case.png`
+
